@@ -1,6 +1,6 @@
-# Tratamento de Exceção Aritmética em Java
+# Tratamento de Exceção em Java
 
-Exemplo básico de tratamento de uma exceção causada por uma divisão por zero em Java.
+- Exemplo básico de tratamento de uma exceção causada por uma divisão por zero em Java.
 
 ## Objetivo
 
