@@ -1,6 +1,6 @@
 # Tratamento de Exceção em Java.
 Este projeto foi desenvolvido em Java.
-![Imagem do Java](java.svg)
+![Imagem do Java](src/java.svg)
 
 - Exemplo básico de tratamento de uma exceção causada por uma divisão por zero em Java.
 
